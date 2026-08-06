@@ -1,0 +1,38 @@
+Research Notes
+
+Hwaseong Campus Facility Profile
+
+Confirmed independently across three sources (Korea Herald, BISinfotech, Korea JoongAng Daily), each reporting consistent figures:
+
+- Investment: approximately 240 billion won (USD 163-182 million), 2021-2025
+- Site: 16,000 square meters, two buildings (Building A: 11 above-ground / 4 underground floors, main offices; Building B: 5 above-ground / 4 underground floors, Repair and Reuse Center plus training center)
+- Function: Repair and Reuse (R&R) Center handles repairs and part reuse for lithography machines used by Samsung Electronics and SK hynix
+- Workforce: approximately 1,500 employees following transition, completed end of 2025
+- Coordinates (ASML's own site, asml.com/company/about-asml/locations): 37.223639 N, 127.071167 E, 47 Dongtan-daero 9ga-gil, Hwaseong-si, Gyeonggi-do
+
+Sources:
+- https://www.koreaherald.com/article/10614674
+- https://www.bisinfotech.com/asml-opens-hwaseong-campus-to-strengthen-korean-collaboration/
+- https://www.koreajoongangdaily.com/business/semiconductor-super-subcontractor-asml-opens-new-hq-in-gyeonggi-to-work-more-closely-with-korean-makers/12134904
+
+ASML Disclosed Risk Factors (relevant to South Korea exposure)
+
+From ASML's own annual report risk disclosures:
+
+- South Korea represents 25.5% of ASML's 2025 net sales; operations and major customers based there leave ASML exposed to conflicts involving North Korea
+
+This confirms the supply chain and customer disruption framing used in the memo's risk assessment: ASML's own disclosures treat South Korea exposure as customer and revenue-based, not facility-security based, consistent with this project's conclusion.
+
+## Sourcing Verification: Yonhap Circularity Issue
+
+During incident verification, several entries initially used CSIS Beyond Parallel as source_1 and Yonhap as source_2. On inspection, CSIS's own citation for those specific incidents traced back to Yonhap directly, meaning Yonhap as a listed second source was not actually independent of the primary source.
+
+Fix: affected entries were re-verified against Reuters coverage of the same incidents, confirmed independent of CSIS's citation chain. 
+
+## Analysis Output Log (cross-reference against /sql/analysis_queries.sql)
+
+Type breakdown: Missile and Strike Tests 8, Ground/Border Provocations 3, Airspace Incursions 3, Electronic/Asymmetric Warfare 1
+
+Proximity distribution: near (<=250km) 12, mid (250-350km) 3
+
+Monthly rate: 15 incidents over 44 months (October 2022 to June 2026), 0.34 per month

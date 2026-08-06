@@ -1,0 +1,23 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Seoul,Seoul,37.56,126.99,"Korea, South",KR,KOR,Seoul,primary,23016000,1410836482
+Busan,Busan,35.18,129.075,"Korea, South",KR,KOR,Busan,admin,3453198,1410601465
+Pyongyang,Pyongyang,39.0167,125.7475,"Korea, North",KP,PRK,P’yŏngyang,primary,2863000,1408738594
+Daegu,Daegu,35.8717,128.6017,"Korea, South",KR,KOR,Daegu,admin,2444412,1410095252
+Gwangju,Gwangju,35.1667,126.9167,"Korea, South",KR,KOR,Jeonnam,admin,1490092,1410000087
+Ulsan,Ulsan,35.55,129.3167,"Korea, South",KR,KOR,Ulsan,admin,1127553,1410134602
+Hamhŭng,Hamhung,39.9167,127.5333,"Korea, North",KP,PRK,Hamnam,admin,768551,1408482040
+Nampo,Nampo,38.7333,125.4,"Korea, North",KP,PRK,Namp’o,,703317,1408358410
+Jeonju,Jeonju,35.8219,127.1489,"Korea, South",KR,KOR,Jeonbuk,admin,653055,1410494847
+Pohang,Pohang,36.0322,129.365,"Korea, South",KR,KOR,Gyeongbuk,minor,520305,1410983252
+Wŏnsan,Wonsan,39.1714,127.4335,"Korea, North",KP,PRK,Kangwŏn,admin,363127,1408692125
+Asan,Asan,36.35,126.9167,"Korea, South",KR,KOR,Chungnam,,319929,1410521090
+Kaesŏng,Kaesong,37.9717,126.5528,"Korea, North",KP,PRK,Hwangbuk,admin,308440,1408725697
+Chuncheon,Chuncheon,37.8747,127.7342,"Korea, South",KR,KOR,Gangwon,admin,281596,1410231130
+Haeju,Haeju,38.0333,125.7167,"Korea, North",KP,PRK,Hwangnam,admin,273300,1408348983
+Anju,Anju,39.6167,125.6667,"Korea, North",KP,PRK,P’yŏngnam,,240117,1408625970
+Mokpo,Mokpo,34.7936,126.3886,"Korea, South",KR,KOR,Jeonnam,minor,214701,1410279439
+Chungju,Chungju,37.0178,127.8772,"Korea, South",KR,KOR,Chungbuk,,211005,1410333057
+Chŏngju,Chongju,39.6928,125.2101,"Korea, North",KP,PRK,P’yŏngbuk,,189742,1408650871
+Hŭich’ŏn,Huich'on,40.1707,126.2761,"Korea, North",KP,PRK,Chagang,,168180,1408445793
+Andong,Andong,36.5656,128.725,"Korea, South",KR,KOR,Gyeongbuk,admin,153306,1410095935
+Sinpo,Sinpo,40.0833,128.25,"Korea, North",KP,PRK,Hamnam,,152759,1408269466
