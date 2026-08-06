@@ -11,9 +11,9 @@ Across 15 significant, independently verified DPRK provocation incidents recorde
 * Methodology: Open-Source Intelligence (OSINT) and Structured Analytic Techniques
 
 ## Files
-- `/data` — Incident dataset CSV, reference cities CSV, SQLite database, ASML annual report (source material)
+- `/data` — Incidents CSV, Cities CSV, SQLite database, ASML annual report (source material)
 - `/output` — Final exported map and advisory memo
-- `/qgis` — QGIS project file and '/layers' subfolder (boundaries, buffers, facility, landcover, reference)
+- `/qgis` — QGIS project file and `/layers` subfolder (boundaries, buffers, facility, landcover, reference)
 - `/research` — Source verification notes 
 - `/sql` — Analysis queries used to produce base-rate and proximity figures
 
