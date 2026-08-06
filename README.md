@@ -8,7 +8,7 @@ Across 15 significant, independently verified DPRK provocation incidents recorde
 * Entity: ASML Holding N.V. (ASML, Euronext Amsterdam)
 * Geographic Focus: South Korea, Hwaseong campus (Gyeonggi-do)
 * Time Window: October 2022 to June 2026
-* Methodology: Open-Source Intelligence (OSINT)and structured analytic techniques
+* Methodology: Open-Source Intelligence (OSINT) and Structured Analytic Techniques
 
 ## Files
 - `/data` — Incident dataset CSV, reference cities CSV, SQLite database, ASML annual report (source material)
