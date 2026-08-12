@@ -28,4 +28,4 @@ Research was structured across four domains, each drawing on a distinct source b
 This project was produced exclusively for portfolio purposes to demonstrate open-source corporate and geopolitical risk analysis methodology. All information is drawn strictly from publicly available sources. No proprietary, confidential, or non-public information was used or sought. This project does not constitute legal, financial, or investment advice.
 
 ## Built
-- July-August 2026
+July-August 2026
